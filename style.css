@@ -1,0 +1,33 @@
+body {
+    max-width: 800px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fffff8;
+    padding: 5em;
+}
+
+#header {
+    font-size: 60px;
+}
+
+#name {
+    font-size: 30px;
+    font-family: "et-book";
+}
+
+#lastname {
+    font-variant: small-caps;
+}
+
+#header table, th, td {
+    margin-left: auto;
+    margin-right: auto;
+}   
+
+#body {
+    font-family: "et-book";
+    padding: 5em 0em;
+    font-size: 130%;
+}
+
