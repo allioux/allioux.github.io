@@ -27,7 +27,12 @@ body {
 
 #body {
     font-family: "et-book";
-    padding: 5em 0em;
+    padding: 3em 0em;
     font-size: 130%;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
+a {
+    color: #b30000
+}
