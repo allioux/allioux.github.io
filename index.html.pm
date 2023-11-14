@@ -26,8 +26,8 @@ representing and harnessing knowledge.
 Previously, I did my PhD on the open problem of defining coherent algebraic structures in
 homotopy type theory (HoTT) in the Inria team
 ◊link["https://www.irif.fr/en/equipes/picube/index"]{Picube} at
-◊link["https://www.irif.fr"]{IRIF} located at Université Paris Cité under the supervision
-of Dr. Matthieu Sozeau and in collaboration with Dr. Eric Finster.
+◊link["https://www.irif.fr/en/index"]{IRIF} located at Université Paris Cité under the
+supervision of Dr. Matthieu Sozeau and in collaboration with Dr. Eric Finster.
 
 My research focused on an extension of HoTT allowing the definition of coherent algebraic
 structures on types, and relatedly, making possible the development of basic higher
