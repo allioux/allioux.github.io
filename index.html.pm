@@ -37,8 +37,7 @@ types.
 You can read my ◊link["https://github.com/allioux/thesis-public"]{PhD thesis}. Most of the
 results have been ◊link["https://github.com/allioux/thesis-formalisation"]{formalised} in
 the Agda proof assistant. Part of my work was the subject of an
-◊link["https://arxiv.org/abs/2105.00024"]{article} published in the proceedings of LICS
-2021.
+◊link["https://arxiv.org/abs/2105.00024"]{article} accepted at LICS 2021.
 
 More generally, I am interested in the connections between type theory, category theory,
 and programming languages
