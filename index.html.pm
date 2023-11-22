@@ -9,9 +9,11 @@
 
 I am a computer scientist with a PhD in type theory and with an experience in software
 engineering in the industry. I like to use the right abstractions to develop softwares
-that are easy to reason about thus maximising their correctness.
+that are easy to reason about thus maximising their correctness. I am specialised in
+statically-typed functional languages, but I remain pragmatic and I appreciate using the
+right tool depending on the constraints at hand.
 
-Currently, I am interested in machine learning as I believe this technology has a great
+Currently, I am also interested in machine learning as I believe this technology has a great
 transformative potential with respect to society.
 
 More generally, my interests lie in the scientific methods devised to produce and exploit
