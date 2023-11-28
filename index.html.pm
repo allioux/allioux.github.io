@@ -8,8 +8,8 @@
                               #:txexpr-elements-proc custom-decode-paragraphs))))
 
 I am a computer scientist with a PhD in type theory and with an experience in software
-engineering in the industry. I like to use the right abstractions to develop softwares
-that are easy to reason about thus maximising their correctness. I am specialised in
+engineering in the industry. I like to use the right abstractions to develop software
+which are easy to reason about thus maximising their correctness. I am specialised in
 statically-typed functional languages, but I remain pragmatic and I appreciate using the
 right tool depending on the constraints at hand.
 
