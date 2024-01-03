@@ -7,11 +7,8 @@
              (decode-elements elements
                               #:txexpr-elements-proc custom-decode-paragraphs))))
 
-I am a computer scientist with a PhD in type theory and with an experience in software
-engineering in the industry. I like to use the right abstractions to develop software
-which are easy to reason about thus maximising their correctness. I am specialised in
-statically-typed functional languages, but I remain pragmatic and I appreciate using the
-right tool depending on the constraints at hand.
+I am a software engineer with a PhD in type theory. I am specialised in statically-typed
+functional languages and I like to use the right abstractions to develop robust software.
 
 Currently, I am also interested in machine learning as I believe this technology has a great
 transformative potential with respect to society.
@@ -44,10 +41,6 @@ the Agda proof assistant. Part of my work was the subject of an
 More generally, I am interested in the connections between type theory, category theory,
 and programming languages
 (◊link["https://ncatlab.org/nlab/show/computational+trilogy"]{the computational trilogy}).
-
-◊headline{Resume}
-
-You can look at my ◊link["allioux-cv.pdf"]{resume}.
 
 ◊headline{Contact}
 
